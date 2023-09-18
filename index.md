@@ -9,3 +9,6 @@ Why do I have to type a commit message at the bottom of the page? Isn't this far
 ```python
 print "You are soooo beautiful!"
 ```
+- [ ] Update README.md
+- [ ] Check status of application at 9am
+- [ ] Phonecall @ 9.30
